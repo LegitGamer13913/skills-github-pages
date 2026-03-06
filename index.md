@@ -1,5 +1,5 @@
 ---
-title:Welcome to my blog!
+Title: Welcome to my blog!
 ---
 
 # This IS The Start
